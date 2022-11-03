@@ -1,6 +1,6 @@
-[submodule "chilipeppers-pizzaria-frontend"]
-	path = chilipeppers-pizzaria-frontend
-	url = https://github.com/wesleyara/chilipeppers-pizzaria-frontend
 [submodule "chilipeppers-pizzaria-backend"]
 	path = chilipeppers-pizzaria-backend
 	url = https://github.com/wesleyara/chilipeppers-pizzaria-backend
+[submodule "chilipeppers-pizzaria-frontend"]
+	path = chilipeppers-pizzaria-frontend
+	url = https://github.com/wesleyara/chilipeppers-pizzaria-frontend
